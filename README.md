@@ -25,7 +25,7 @@ The application uses an H2 in-memory database for testing/demo purposes and foll
 ---
 🔧 Setup & Run
 1️⃣ Clone the Repository
-git clone https://github.com/Suryaa77/employeeapi.git
+git clone https://github.com/Gnanii-g/employeeapi.git
 
 2️⃣ Open in IDE
 
@@ -47,7 +47,7 @@ http://localhost:8080/h2-console
 
 JDBC URL
 
-jdbc:h2:mem:employeeDB
+jdbc:h2:mem:employeedb
 
 
 Username: sa
@@ -94,4 +94,5 @@ Using:
 
 Postman Collection
 All endpoints are tested and verified using Postman.
+
 
